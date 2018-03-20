@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rdu/Workspace/Ascent/examples/examples/airy/airy.cpp
+ascent/Ascent.h
+/home/rdu/Workspace/Ascent/examples/examples/airy/ascent/Ascent.h
+

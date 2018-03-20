@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14   CMakeFiles/modular-spring-damper.dir/Main.cpp.o  -o modular-spring-damper -rdynamic 

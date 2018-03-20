@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14   CMakeFiles/sampling.dir/sampling.cpp.o  -o sampling -rdynamic 

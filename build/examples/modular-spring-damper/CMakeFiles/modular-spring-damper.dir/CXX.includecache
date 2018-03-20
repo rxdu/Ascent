@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rdu/Workspace/Ascent/examples/modular-spring-damper/Body.h
+ascent/Ascent.h
+/home/rdu/Workspace/Ascent/examples/modular-spring-damper/ascent/Ascent.h
+
+/home/rdu/Workspace/Ascent/examples/modular-spring-damper/Damper.h
+Body.h
+/home/rdu/Workspace/Ascent/examples/modular-spring-damper/Body.h
+
+/home/rdu/Workspace/Ascent/examples/modular-spring-damper/Main.cpp
+Damper.h
+/home/rdu/Workspace/Ascent/examples/modular-spring-damper/Damper.h
+Spring.h
+/home/rdu/Workspace/Ascent/examples/modular-spring-damper/Spring.h
+
+/home/rdu/Workspace/Ascent/examples/modular-spring-damper/Spring.h
+Body.h
+/home/rdu/Workspace/Ascent/examples/modular-spring-damper/Body.h
+
