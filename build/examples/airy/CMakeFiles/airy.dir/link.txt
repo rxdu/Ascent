@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++14   CMakeFiles/airy.dir/airy.cpp.o  -o airy -rdynamic 
